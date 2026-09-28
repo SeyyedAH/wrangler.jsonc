@@ -1,0 +1,8 @@
+{
+  "$schema": "https://unpkg.com/wrangler@4/config-schema.json",
+  "name": "my-personal-ai",
+  "compatibility_date": "2026-09-28",
+  "assets": {
+    "directory": "./"
+  }
+}
